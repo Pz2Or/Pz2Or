@@ -1,6 +1,6 @@
 ### Hi there 👋
 Japanese junior high school student
-
+<!--
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,golang " /> <br /><br />
 
@@ -10,3 +10,4 @@ Japanese junior high school student
 ### Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pz2Or&show_icons=true&locale=en&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pz2Or&count_private=true" /> |
 | ------------- | ------------- |
+-->
