@@ -1,13 +1,9 @@
 ### Hi there 👋
-Japanese junior high school student
-<!--
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,golang " /> <br /><br />
+I'm a Japanese junior high school student currently attending Seiko Gakuin Junior High School
 
-### Dev Tools 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,neovim,linux,nginx" /> <br /><br />
+- 🌐 **Web Developer**
+- 🎓 **Born**: 2009
 
 ### Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pz2Or&show_icons=true&locale=en&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pz2Or&count_private=true" /> |
+| <img align="center" src="https://github-readme-stats-torlka-nicla.vercel.app/api/top-langs?username=Pz2Or&show_icons=true&locale=en&layout=compact" /> | <img align="center" src="https://github-readme-stats-torlka-nicla.vercel.app/api?username=Pz2Or&count_private=true" /> |
 | ------------- | ------------- |
--->
