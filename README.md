@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Japanese junior high school student currently attending Seiko Gakuin Junior High School
+I'm a Japanese junior high school student currently attending Seiko Gakuin
 
 - 🌐 **Web Developer**
 - 🎓 **Born**: 2009
