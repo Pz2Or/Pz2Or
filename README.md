@@ -7,7 +7,7 @@ I'm a Japanese junior high school student currently attending Seiko Gakuin
 - **🎂 Born**: 2009  
 - **🌐 Focus Areas**: Web Development, React, Next.js and more! 
 - **🎯 Goals**: Learn new frameworks and contribute to open-source projects.
-- 
+
 ---
 
 ## 📊 My GitHub Stats  
